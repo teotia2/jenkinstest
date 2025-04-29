@@ -1,1 +1,1 @@
-print("Wassup Buddy!! v2")
+echo("Wassup Buddy!! v2")
